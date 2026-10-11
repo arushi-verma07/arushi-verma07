@@ -1,85 +1,97 @@
-<!-- ✨ Top Cinematic Animated Banner with Name -->
+<!-- ========================================== -->
+<!-- 🚀 TOP 3D ANIMATED HEADER BANNER          -->
+<!-- ========================================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=160&section=header&text=Arushi%20Verma&fontSize=42&fontColor=8ab4f8&animation=scaleIn&fontAlignY=50&stroke=8ab4f8&strokeWidth=2" width="100%" />
+  <svg viewBox="0 0 1000 240" width="100%" height="240" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <!-- Premium Dark Cyber Background Gradient -->
+      <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#0b0f19"/>
+        <stop offset="50%" stop-color="#111827"/>
+        <stop offset="100%" stop-color="#070a12"/>
+      </linearGradient>
 
-  <!-- 💫 Glowing Live Typing Subtitle -->
-  <p>
-    <a href="https://github.com/arushi-verma07">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8AB4F8&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AIML)+Student+%40+SSIU+Gujarat;UI%2FUX+Designer+%26+Frontend+Developer;Crafting+AstraX+%26+Digital+Experiences;Python,+JavaScript,+HTML%2FCSS+%26+Figma" alt="Typing SVG" />
-    </a>
-  </p>
+      <!-- 3D Text Gradient (Cyan-Blue Glow) -->
+      <linearGradient id="text-3d-front" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#38bdf8"/>
+        <stop offset="50%" stop-color="#818cf8"/>
+        <stop offset="100%" stop-color="#c084fc"/>
+      </linearGradient>
 
-  <!-- ⚡ Animated Divider Line -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553dd.gif" width="100%">
+      <linearGradient id="text-3d-shadow" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#0284c7"/>
+        <stop offset="100%" stop-color="#7c3aed"/>
+      </linearGradient>
+
+      <linearGradient id="line-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
+        <stop offset="50%" stop-color="#38bdf8" stop-opacity="1"/>
+        <stop offset="100%" stop-color="#c084fc" stop-opacity="0"/>
+      </linearGradient>
+
+      <!-- Subtle Glowing Pulse Effect -->
+      <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="8" result="blur" />
+        <feComposite in="SourceGraphic" in2="blur" operator="over" />
+      </filter>
+    </defs>
+
+    <!-- Background Card -->
+    <rect width="100%" height="100%" rx="18" fill="url(#bg-grad)" stroke="#1e293b" stroke-width="2"/>
+
+    <!-- Animated Circuit / Flow Lines -->
+    <path d="M 0,40 Q 250,80 500,40 T 1000,40" fill="none" stroke="url(#line-glow)" stroke-width="2" opacity="0.6">
+      <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M 0,40 Q 250,80 500,40 T 1000,40; M 0,60 Q 250,20 500,60 T 1000,60; M 0,40 Q 250,80 500,40 T 1000,40"/>
+    </path>
+
+    <path d="M 0,200 Q 250,160 500,200 T 1000,200" fill="none" stroke="url(#line-glow)" stroke-width="1.5" opacity="0.4">
+      <animate attributeName="d" dur="10s" repeatCount="indefinite" values="M 0,200 Q 250,160 500,200 T 1000,200; M 0,180 Q 250,220 500,180 T 1000,180; M 0,200 Q 250,160 500,200 T 1000,200"/>
+    </path>
+
+    <!-- 3D Layered Text: ARUSHI VERMA -->
+    <!-- Shadow Layers for 3D Depth -->
+    <text x="502" y="112" font-family="'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="52" fill="url(#text-3d-shadow)" text-anchor="middle" opacity="0.8">ARUSHI VERMA</text>
+    <text x="501" y="111" font-family="'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="52" fill="url(#text-3d-shadow)" text-anchor="middle" opacity="0.9">ARUSHI VERMA</text>
+    
+    <!-- Front Text with Glow -->
+    <text x="500" y="110" font-family="'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="52" fill="url(#text-3d-front)" text-anchor="middle" filter="url(#glow)">ARUSHI VERMA</text>
+
+    <!-- Subtitle Badge -->
+    <rect x="250" y="145" width="500" height="32" rx="16" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <text x="500" y="166" font-family="'Fira Code', monospace" font-size="14" fill="#94a3b8" text-anchor="middle" font-weight="500">
+      ✦ CSE (AI & ML) @ SSIU Gujarat | UI/UX & Web Developer ✦
+    </text>
+  </svg>
 </div>
 
----
-
-### 🚀 ## About Me
+<!-- Dynamic Typing Animation Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/absenth/absenth/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <a href="https://github.com/arushi-verma07">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Designing+Intuitive+Digital+Experiences;Exploring+Artificial+Intelligence+%26+Machine+Learning;Creating+AstraX+EdTech+Platform;Crafting+Modern+UI%2FUX+Wireframes+in+Figma" alt="Typing Animation" />
+  </a>
 </p>
 
-- 🎓 **Who am I:** A passionate B.Tech Computer Science & Engineering student specializing in **Artificial Intelligence & Machine Learning (AIML)** at Swarrnim Startup & Innovation University, Gujarat.
-- 🎨 **Design & Creativity:** Expert in crafting sleek web & mobile UI/UX wireframes, fresh food e-commerce platforms, and exam prep applications using **Figma**.
-- 💻 **Core Tech Stack:** HTML, CSS, JavaScript, Python, NoSQL (MongoDB), Git, GitHub, and Git Bash.
-- 🎯 **Current Objective:** Blending clean aesthetic design with powerful AI & frontend logic to build real-world, high-impact applications.
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553dd.gif" width="100%">
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Gujarat%2C%20India-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Degree-B.Tech%20CSE%20(AIML)-8b5cf6?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-UI%2FUX%20%26%20Frontend-10b981?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
 ---
 
-### 🛠️ ## Tech Stack & Ecosystem
+## ⚡ About Me
 
-<div align="center">
+```yaml
+identity:
+  name: Arushi Verma
+  location: SSIU Campus, Gujarat, India
+  education: B.Tech in Computer Science & Engineering (AI & ML)
+  specialization: UI/UX Prototyping, Wireframing & Modern Web Frontend
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **🎨 UI/UX & Prototyping** | `<Figma>` &nbsp; `<Wireframing>` &nbsp; `<User Research>` &nbsp; `<Prototyping>` |
-| **💻 Programming & Web** | `<Python>` &nbsp; `<JavaScript>` &nbsp; `<HTML5>` &nbsp; `<CSS3>` |
-| **🗄️ Databases & Version Control** | `<MongoDB>` &nbsp; `<Git>` &nbsp; `<GitHub>` &nbsp; `<Git Bash>` |
+current_craft:
+  - 🎨 Building human-centered UI/UX design systems in Figma
+  - 🤖 Integrating Machine Learning principles into Web Architecture
+  - 📱 Creating multi-page educational & e-commerce interactive app prototypes
+  - 💻 Writing scalable HTML, CSS, JavaScript, and Python codebases
 
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553dd.gif" width="100%">
-</div>
-
----
-
-### 📌 ## Featured Projects & Creations
-
-| Project Name | Description | Tech / Tools |
-| :--- | :--- | :--- |
-| **AstraX** | A comprehensive 10-page mobile educational application prototype tailored for competitive exam preparation. | Figma, UI/UX Wireframing |
-| **E-Commerce UI** | High-fidelity, minimalist UI layout built for fresh food delivery and seamless user checkout flows. | Figma, Prototyping |
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553dd.gif" width="100%">
-</div>
-
----
-
-### 📊 ## GitHub Analytics & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arushi-verma07&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arushi-verma07&layout=compact&theme=vue-dark&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arushi-verma07&theme=vue-dark&hide_border=true" width="80%" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553dd.gif" width="100%">
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arushi-verma07&color=8ab4f8&style=flat-square" alt="Profile Views" />
-  <p><em>✨ Thanks for visiting my profile! Let's build something amazing together. ✨</em></p>
-</div>
+philosophy: "Merging spatial aesthetics with functional, high-performance logic."
