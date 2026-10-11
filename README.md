@@ -1,242 +1,57 @@
-
-<!--
-  ARUSHI VERMA | OBSIDIAN ATELIER
-  Replace YOUR-USERNAME with your actual GitHub username.
--->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header&text=Arushi%20Verma&fontSize=32&fontColor=8ab4f8&animation=fadeIn&fontAlignY=50" width="100%" />
+</div>
 
 <div align="center">
-
-# A R U S H I  V E R M A
-
-### `DESIGNER IN MIND  /  DEVELOPER IN PROGRESS`
-
-`✳` UI/UX DESIGN &nbsp; · &nbsp; FRONTEND DEVELOPMENT &nbsp; · &nbsp; CREATIVE CODE `✳`
-
-<br/>
-
-```text
-     ╭──────────────────────────────────────────────────╮
-     │                                                  │
-     │     A R U S H I . e x e                          │
-     │                                                  │
-     │     STATUS    ● ONLINE                           │
-     │     MODE      CREATIVE                           │
-     │     MISSION   TURN IDEAS INTO EXPERIENCES        │
-     │                                                  │
-     │     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━     │
-     │                                                  │
-     │     DESIGN  →  BUILD  →  EXPLORE  →  EVOLVE      │
-     │                                                  │
-     ╰──────────────────────────────────────────────────╯
-```
-
-**Quiet design. Curious mind. Ambitious ideas.**
-
-[GitHub](https://github.com/YOUR-USERNAME) · [Repositories](https://github.com/YOUR-USERNAME?tab=repositories)
-
+  <p><em>🎓 B.Tech CSE (AIML) Student @ Swarrnim Startup & Innovation University, Gujarat | 🎨 UI/UX Designer & Developer</em></p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Status-Building_AI_%26_Web_Solutions-1f6feb?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Design-Figma-8ab4f8?style=flat-square&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tech-Python_%26_JS-3fb950?style=flat-square&logo=python&logoColor=white" />
+  </p>
 </div>
 
 ---
 
-<div align="center">
+### ✨ About Me
 
-`01 — THE PERSON`
-
-## Behind the code
-
-</div>
-
-Hey, I'm **Arushi Verma**.
-
-I'm learning to bring ideas to life through thoughtful design and frontend development. I enjoy exploring how interfaces look, how users interact with them, and how code turns a visual idea into a working experience.
-
-I'm currently growing my skills in HTML, CSS, JavaScript, Python, Figma, and Git/GitHub.
-
-I don't believe in knowing everything from day one. I believe in learning, experimenting, and building something better with every attempt.
-
-```text
-╭─ PERSONAL MANIFESTO ───────────────────────────╮
-│                                                │
-│  Think deeply.                                 │
-│  Design intentionally.                         │
-│  Write code.                                   │
-│  Learn from mistakes.                          │
-│  Repeat until it feels right.                  │
-│                                                │
-╰────────────────────────────────────────────────╯
-```
+- 🔭 **Current Focus:** Pursuing B.Tech in Computer Science & Engineering with Artificial Intelligence and Machine Learning (CSE AIML) at Swarrnim Startup & Innovation University, Gujarat.
+- 🎨 **Design Philosophy:** Crafting intuitive web & mobile UI/UX wireframes, fresh food e-commerce platforms, and exam prep applications using Figma.
+- 💻 **Tech Stack:** HTML, CSS, JavaScript, Python, NoSQL (MongoDB), Git, and GitHub.
+- 🚀 **Projects Built:** Developed applications like *AstraX* (educational app prototype for competitive exams) and clean UI interfaces.
 
 ---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies / Tools |
+| :--- | :--- |
+| **Design & Prototyping** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-8ab4f8?style=flat&logo=adobe-xd&logoColor=white) ![Wireframing](https://img.shields.io/badge/Wireframing-000000?style=flat&logo=figma&logoColor=white) |
+| **Programming & Frontend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| **Databases & Version Control** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
-
-`02 — THE TOOLKIT`
-
-## My creative stack
-
-*Every tool is another way to turn an idea into reality.*
-
-</div>
-
-| Discipline | Tools & technologies |
-|:--|:--|
-| Structure | HTML5 |
-| Visual styling | CSS3 |
-| Interactivity | JavaScript |
-| Programming | Python |
-| Interface design | Figma |
-| Version control | Git |
-| Collaboration | GitHub |
-| Development environment | VS Code |
-
-```text
-SKILL DEVELOPMENT
-
-HTML             ██████████  Learning & practising
-CSS              ██████████  Learning & practising
-JavaScript       ██████░░░░  In progress
-Python           ██████░░░░  In progress
-UI/UX             ██████░░░░  Exploring & improving
-Git / GitHub     ██████░░░░  Practising workflows
-```
-
-*These bars represent a learning journey, not measured proficiency scores.*
-
----
-
-<div align="center">
-
-`03 — SELECTED EXPERIMENTS`
-
-## Things I've been building
-
-</div>
-
-### / 001 — Lifestyle Website
-
-A responsive e-commerce-inspired interface focused on navigation, dropdown menus, page structure, and CSS styling.
-
-`HTML` · `CSS` · `RESPONSIVE DESIGN`
-
-[↗ Browse my repositories](https://github.com/YOUR-USERNAME?tab=repositories)
-
----
-
-### / 002 — Coffee Website UI
-
-A coffee-inspired digital experience exploring visual hierarchy, typography, layout, and interface aesthetics.
-
-`FIGMA` · `UI DESIGN` · `HTML/CSS`
-
-[↗ Browse my repositories](https://github.com/YOUR-USERNAME?tab=repositories)
-
----
-
-### / 003 — Meesho Profile Page
-
-A shopping-profile interface experiment focused on useful sections, clear layout, and responsive styling.
-
-`HTML` · `CSS` · `FRONTEND PRACTICE`
-
-[↗ Browse my repositories](https://github.com/YOUR-USERNAME?tab=repositories)
-
----
-
-### / 004 — CalmWait
-
-A patient waiting and queue-management concept designed to make hospital visits more informed and less stressful.
-
-`UI/UX` · `FIGMA` · `WEB DESIGN`
-
-[↗ Browse my repositories](https://github.com/YOUR-USERNAME?tab=repositories)
-
----
-
-<div align="center">
-
-`04 — THE WORKSHOP`
-
-## Currently in progress
-
-</div>
-
-```text
-╭─ LEARNING LOG ─────────────────────────────────╮
-│                                                │
-│  [01] Strengthening JavaScript fundamentals    │
-│  [02] Practising Python logic and loops        │
-│  [03] Exploring responsive CSS layouts         │
-│  [04] Improving Figma and interface design     │
-│  [05] Learning branches, commits and merging  │
-│  [06] Building projects and documenting them   │
-│                                                │
-╰────────────────────────────────────────────────╯
-```
-
-My current goal is to understand the fundamentals properly, rather than simply copy code that works.
-
----
-
-<div align="center">
-
-`05 — THE GITHUB ARCHIVE`
-
-## A little progress, consistently
-
+  <img src="https://github-readme-stats.vercel.app/api?username=arushi-verma07&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arushi-verma07&layout=compact&theme=vue-dark&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-
-[**My repositories →**](https://github.com/YOUR-USERNAME?tab=repositories)
-
-[**My contributions →**](https://github.com/YOUR-USERNAME?tab=overview)
-
-[**My profile activity →**](https://github.com/YOUR-USERNAME?tab=activity)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arushi-verma07&theme=vue-dark&hide_border=true" width="80%" />
 </div>
-
-```text
-╭─ THE BUILD CYCLE ──────────────────────────────╮
-│                                                │
-│    IDEA                                       │
-│      │                                         │
-│      ▼                                         │
-│    EXPERIMENT                                  │
-│      │                                         │
-│      ▼                                         │
-│    BUILD                                       │
-│      │                                         │
-│      ▼                                         │
-│    LEARN                                       │
-│      │                                         │
-│      ╰───────────────→ REPEAT                  │
-│                                                │
-╰────────────────────────────────────────────────╯
-```
 
 ---
 
+### 📌 Featured Creations
+| Project | Description | Tech / Tools |
+| :--- | :--- | :--- |
+| **AstraX** | 10-page mobile educational app prototype tailored for NEST and IISER exam preparation. | Figma, UI/UX Wireframing |
+| **E-Commerce UI** | High-fidelity UI wireframe layout for fresh food e-commerce platforms. | Figma, Prototyping |
+
 <div align="center">
-
-`06 — A FINAL NOTE`
-
-## Still becoming.
-
-I am not trying to build everything overnight.
-
-I'm here to develop real skills, create meaningful projects, and become better at the things I love.
-
-**One idea. One project. One improvement at a time.**
-
-<br/>
-
-`DESIGNED WITH CURIOSITY`  
-`BUILT WITH CONSISTENCY`
-
-<br/>
-
-*Thanks for visiting my corner of GitHub.*
-
-[Explore my work](https://github.com/YOUR-USERNAME?tab=repositories) · [Follow my journey](https://github.com/YOUR-USERNAME?tab=followers)
-
+  <img src="https://komarev.com/ghpvc/?username=arushi-verma07&color=8ab4f8&style=flat-square" alt="Profile Views" />
 </div>
