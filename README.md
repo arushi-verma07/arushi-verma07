@@ -1,5 +1,12 @@
-# Hi there, I'm Arushi 👋 
-### 🎓 B.Tech CSE (AI) Student | 🎨 UI/UX Designer & Frontend Developer
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:9f1239,100:c2410c&height=220&section=header&text=ARUSHI%20VERMA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
+</div>
+
+<p align="center">
+  <code>✦ CSE (AI & ML) @ SSIU Gujarat | UI/UX & Web Developer ✦</code>
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=CSE+(AI)+Undergrad;UI%2FUX+Design+Enthusiast;Frontend+%26+Web+Developer;Building+Intuitive+Digital+Experiences" alt="Typing SVG" />
